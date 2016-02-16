@@ -2,14 +2,14 @@
 
 **Autor**: Filipe Leuch Bonfim - [filipe1309](https://github.com/filipe1309)
 
-**Data**: // execute o Date.now() e coloque o timestamp aqui
+**Data**: 1455582852937
 
 ## O que é herança mesmo?
 > “É um princípio de orientação a objetos, que permite que classes compartilhem atributos e métodos,” [Wikipedia] (https://pt.wikipedia.org/wiki/Heran%C3%A7a_%28programa%C3%A7%C3%A3o%29)
 
 *Herança* é um conceito base de orientação a objetos, que serve para evitar a repetição de código, além de deixá-lo mais limpo, possibilitando também a especialização das classes.
 
-### Ok, mas como a herança funciona no Javascript
+## Ok, mas como a herança funciona no Javascript
 O funcionamento ocorre de forma um pouco diferente do que em orientação a objetos, pois javascript é uma linguagem orientada a protótipos. que não possui classes, e a herança ocorre através de um processo de clonagem de objetos existentes que são utilizados como protótipos dos novos objetos que serão criados.
 
 ## Pera, pera!!! tipo, o que são protótipos mesmo!?
@@ -53,11 +53,11 @@ var Veiculo = function(modelo, ano) {
 }
 
 Veiculo.prototype.acelerar = function(){
-    console.log("Celera, celera!!!!”);
+    console.log("Celera, celera!!!!");
 }
 
 Veiculo.prototype.buzina = function(){
-    console.log("Biii Biii!!!!”);
+    console.log("Biii Biii!!!!");
 }
 
 ```
@@ -139,10 +139,10 @@ var carro = function(modelo, ano, qtd_portas){
 
 ## Referências
 
-[Caleum - Reaproveitando código com Javascript herança e protótipos](http://blog.caelum.com.br/reaproveitando-codigo-com-javascript-heranca-e-prototipos/)
-[Mozilla - Javascript Inheritance and the prototype chain](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)
-[Stackoverflow - Este é um exemplo correto de herança em Javascript](http://pt.stackoverflow.com/questions/7220/este-%C3%A9-um-exemplo-correto-de-heran%C3%A7a-em-javascript)
-[Frontinbrazil - Entendendo herança no Javascript](http://frontinbrazil.com.br/entendendo-heranca-no-javascript/)
-[Loopinfinito - herança em Javascript parte 1](http://loopinfinito.com.br/2012/05/04/heranca-em-javascript-parte-1/)
-[Loopinfinito - herança em Javascript parte 2](http://loopinfinito.com.br/2013/02/05/heranca-em-javascript-parte-2/)
-[Stackoverflow - Javascript inheritance](http://stackoverflow.com/questions/931660/javascript-inheritance)
+[Caleum - Reaproveitando código com Javascript herança e protótipos](http://blog.caelum.com.br/reaproveitando-codigo-com-javascript-heranca-e-prototipos/)<br>
+[Mozilla - Javascript Inheritance and the prototype chain](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Inheritance_and_the_prototype_chain)<br>
+[Stackoverflow - Este é um exemplo correto de herança em Javascript](http://pt.stackoverflow.com/questions/7220/este-%C3%A9-um-exemplo-correto-de-heran%C3%A7a-em-javascript)<br>
+[Frontinbrazil - Entendendo herança no Javascript](http://frontinbrazil.com.br/entendendo-heranca-no-javascript/)<br>
+[Loopinfinito - herança em Javascript parte 1](http://loopinfinito.com.br/2012/05/04/heranca-em-javascript-parte-1/)<br>
+[Loopinfinito - herança em Javascript parte 2](http://loopinfinito.com.br/2013/02/05/heranca-em-javascript-parte-2/)<br>
+[Stackoverflow - Javascript inheritance](http://stackoverflow.com/questions/931660/javascript-inheritance)<br>

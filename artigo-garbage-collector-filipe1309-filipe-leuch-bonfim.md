@@ -1,6 +1,6 @@
 # Artigo - Garbage Collector
 **Autor**: Filipe Leuch Bonfim - [filipe1309](https://github.com/filipe1309)
-**Data**: // execute o Date.now() e coloque o timestamp aqui
+**Data**: 1455582829631
 
 
 ## Introdução
@@ -101,7 +101,7 @@ Após a fase de marcação, também chamada de rotulação, é iniciada a fase d
 
 ## Referências
 
->[Mozilla - Javascript Memory Management](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Memory_Management)
-[Stackoverflow - What is Javascript Garbage Collection](http://stackoverflow.com/questions/864516/what-is-javascript-garbage-collection)
-[docstore - JScript](http://docstore.mik.ua/orelly/webprog/jscript/ch11_03.htm)
-[codesandscripts - Javascript and Garbage Collection ](http://www.codesandscripts.com/2014/06/javascript-and-garbage-collection.html)
+[Mozilla - Javascript Memory Management](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Memory_Management)<br>
+[Stackoverflow - What is Javascript Garbage Collection](http://stackoverflow.com/questions/864516/what-is-javascript-garbage-collection)<br>
+[docstore - JScript](http://docstore.mik.ua/orelly/webprog/jscript/ch11_03.htm)<br>
+[codesandscripts - Javascript and Garbage Collection ](http://www.codesandscripts.com/2014/06/javascript-and-garbage-collection.html)<br>
