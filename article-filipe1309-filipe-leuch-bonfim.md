@@ -1,5 +1,5 @@
 # MongoDb - Artigo sobre Autenticação no MongoDb
-**Autor:** Filipe Leuch Bonfim
+**Autor:** Filipe Leuch Bonfim<br>
 **Data** 1454340549030
 
 ## Qual a diferença entre Autenticação e Autorização?

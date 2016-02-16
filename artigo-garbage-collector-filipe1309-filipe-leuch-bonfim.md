@@ -1,5 +1,5 @@
 # Artigo - Garbage Collector
-**Autor**: Filipe Leuch Bonfim - [filipe1309](https://github.com/filipe1309)
+**Autor**: Filipe Leuch Bonfim - [filipe1309](https://github.com/filipe1309)<br>
 **Data**: 1455582829631
 
 
